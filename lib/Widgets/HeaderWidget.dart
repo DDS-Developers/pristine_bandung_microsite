@@ -18,7 +18,7 @@ Widget headerWidget(BuildContext context) {
               padding: const EdgeInsets.only(top: 10.0),
               child: Image.asset(
                 'assets/menu.png',
-                height: 45,
+                height: 35,
               ),
             ),
           ),
